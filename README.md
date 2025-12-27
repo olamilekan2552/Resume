@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -159,9 +158,11 @@
 
     <nav>
         <a href="#about">About</a>
+        <a href="#education">Education</a>
         <a href="#skills">Skills</a>
         <a href="#experience">Experience</a>
         <a href="#grants">Grants & Awards</a>
+        <a href="#certifications">Certifications</a>
         <a href="#publications">Publications</a>
         <a href="#contact">Contact</a>
     </nav>
@@ -177,7 +178,31 @@
             I am a focused, efficient, and result-oriented economist and researcher with excellent skills in teaching, data analytics, econometrics, financial analysis, policy evaluation, research design, and communication. I have a strong passion for contributing to impactful research initiatives that address real-world challenges through data-driven solutions.
         </p>
     </section>
-
+<section id="education">
+        <h2>📈 Education</h2>
+        <div class="grid">
+            <div class="card">
+                <strong>DOCTOR OF PHILOSOPHY (PHD) IN ECONOMICS</strong>
+                Universiti Putra Malaysia (2024-2027).
+            </div>
+            <div class="card">
+                <strong>POSTGRADUATE DIPLOMA IN EDUCATION AND TEACHING</strong>
+                Asian College of Teachers (2024-2025).
+            </div>
+            <div class="card">
+                <strong>MASTER OF BUSINESS ADMINISTRATION (MBA)</strong>
+                National Institute of Business Management (2024-2025).
+            </div>
+            <div class="card">
+                <strong>MASTER OF SCIENCE IN ECONOMICS</strong>
+                University of Abuja (2018-2021).
+            </div>
+            <div class="card">
+                <strong>BACHELOR OF SCIENCE IN ECONOMICS </strong>
+                University of Abuja (2012-2017).
+            </div>
+        </div>
+    </section>
     <section id="skills">
         <h2>🛠 Technical Skills</h2>
         <div class="grid">
@@ -220,20 +245,33 @@
         <h2>Professional Experience</h2>
         <div class="card" style="margin-bottom: 20px;">
             <strong>Adjunct Economics Lecturer | University of Abuja (2019 – 2024)</strong>
-            <p>Supervised macroeconomics and environmental research; Guided use of STATA/SPSS, improving research quality by 15%.</p>
+            <p>Supervised macroeconomics and environmental research, Delivered lectures on econometrics, international finance, and economic systems, Guided use of STATA/SPSS, improving research quality by 15%.</p>
         </div>
         <div class="card">
             <strong>Research Fellow | Epitome Resources Consulting Network Ltd. (2016 – Present)</strong>
             <p>Conducting applied research, designing econometric forecasting models, and producing high-level data visualisations.</p>
         </div>
     </section>
+    <section id="certifications">
+    <h2>Certifications</h2>
+    <div class="certifications">
+      <ul>
+        <li><strong>Project Management Professional (PMP)</strong> – British Project Academy, UK (2017)</li>
+        <li><strong>CFA Institute</strong> – Financial Analysis Fundamentals & Modelling Series (2022)</li>
+        <li><strong>Managing Successful Field Research</strong> – World Bank Group (2024)</li>
+        <li><strong>Certificate in Data Analytics</strong> – Orbal Digital Academy (2025)</li>
+        <li><strong>ACCA</strong> – In Progress</li>
+      </ul>
+      </div>
 
     <section id="publications">
         <h2>Selected Publications</h2>
         <ul class="pub-list">
-            <li><strong>2025:</strong> Asymmetric Responses of Industrial Output to Oil Price Volatility: A GARCH Approach (Energy Economics Letters).</li>
-            <li><strong>2022:</strong> Has economic growth reduced poverty in Nigeria? A critical analysis (JED).</li>
-            <li><strong>2023:</strong> Public Domestic Debts & Private Investments in Nigeria (IJEBER).</li>
+            <li>Olaleye, O.O., Rosland, A., Alao, R.O., & Issa, S.O. (2025). Asymmetric Responses of Industrial Output to Oil Price Volatility: A GARCH Approach in East Asia-Pacific Developing Countries.https://doi.org/10.55493/5049.v12i2.5495. <em>Energy Economics Letters</em>.</li>
+        <li>Olasode, T., Eke, C. I & Olaleye, O. O (2022), Has economic growth reduced poverty in Nigeria? A critical analysis of the last two decades. https://doi.org/10.20414/jed.v4i2.5506. <em>Journal of Enterprise and Development (JED) Vol. 4, No.2, December 2022</em>.</li>
+        <li>OLALEYE, O. O. (2022). Impact of Foreign Capital Inflow on a Selected Macroeconomic Variable in Nigeria 1990-2021.https://doi.org/10.5281/zenodo.6947149. <em>Indiana Journal of Humanities & Social Sciences, 3(7), 25–33.</em>.</li>
+        <li>Olaleye, O.O. et al. (2021). Impact of Fiscal Policy on Economic Performance in Nigeria. <em>Abuja Journal of Economics</em>.</li>
+        <li>Olaleye, O.O. et al. (2023). Public Domestic Debts & Private Investments in Nigeria. <em>IJEBER</em>.</li>
         </ul>
 
         <div class="card" style="margin-top: 40px; border-top: 5px solid var(--accent); text-align: center;">
@@ -256,7 +294,7 @@
     </section>
 
     <footer>
-        <p>© 2025 Olalekan Oluwabunmi Olaleye | Built with HTML & CSS</p>
+        <p>© 2025 Olalekan Oluwabunmi Olaleye </p>
     </footer>
 
 </body>
