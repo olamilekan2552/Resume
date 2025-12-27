@@ -287,7 +287,7 @@
             <p><i class="fas fa-envelope"></i> lekinzino@gmail.com</p>
             <p><i class="fas fa-phone"></i> +601117940546 | +2347039124372</p>
             <div class="social-icons" style="margin-top: 20px;">
-                <a href="https://www.linkedin.com/in/olalekan-olaleye-b85651a7/"><i class="fab fa-linkedin" style="color:#0077b5"></i></a>
+                <a href="https://www.linkedin.com/in/olalekan-olaleye-b85651a7/"><i class="fab fa-linkedin" style="color:#0077b5"></i </a>
                 <a href="https://github.com/olamilekan2552"><i class="fab fa-github" style="color:#333"></i></a>
             </div>
         </div>
